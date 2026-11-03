@@ -1,13 +1,14 @@
 {
   "manifestVersion": 2,
   "execution": "data",
-  "id": "vietnamese-language",
+  "id": "vietnamese",
   "publisher": "dohaidang",
   "name": "Tiếng Việt cho Orca",
   "version": "1.1.0",
+  "license": "MIT",
   "description": "Bản dịch tiếng Việt cho giao diện Orca 1.4.246.",
   "author": {
-    "name": "dohaidang"
+    "name": "Đỗ Hải Đăng"
   },
   "engines": {
     "orca": ">=1.4.246"
