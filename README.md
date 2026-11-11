@@ -1,19 +1,19 @@
-# Tiếng Việt cho Orca
+# Vietnamese for Orca
 
-Gói ngôn ngữ tiếng Việt dành cho Orca 1.4.246 trở lên.
+A Vietnamese language pack for Orca 1.4.255 and later.
 
-**Người duy trì:** dohaidang
+**Maintainer:** dohaidang
 
-## Cài đặt
+## Installation
 
-Trong Orca, mở **Settings → Plugins → Add plugin → From a Git URL** và nhập URL của kho này. Bật plugin sau khi cài đặt, rồi nhấn **Use** trên trang chi tiết plugin hoặc chọn **Tiếng Việt** tại **Settings → Appearance → Language**.
+In Orca, open **Settings → Plugins → Add plugin → From a Git URL** and enter this repository URL. Enable the plugin after installation, then select **Use** on its detail page or choose **Tiếng Việt** under **Settings → Appearance → Language**.
 
-## Phạm vi
+## Coverage
 
-Gói chứa 17.085 chuỗi giao diện hợp lệ, được đồng bộ với catalog của Orca 1.4.246. Bản dịch được tạo tự động và hiệu đính các mục chính. Một số câu có thể cần chỉnh thêm; các chuỗi được Orca bảo vệ vẫn hiển thị theo bản gốc.
+The pack contains 18,005 accepted interface strings synchronized with the Orca 1.4.255 catalog. Technical terms and critical commands are manually normalized. Orca-protected security copy remains under Orca's control and is intentionally not overridden.
 
-Nếu gặp bản dịch chưa đúng, hãy tạo issue kèm ảnh hoặc tên trang và câu cần sửa.
+If you find an inaccurate translation, open an issue with a screenshot or the page name and the affected text.
 
-## Giấy phép
+## License
 
-MIT License. Xem tệp [LICENSE](LICENSE). Bản quyền © 2026 Đỗ Hải Đăng.
+MIT License. See [LICENSE](LICENSE). Copyright © 2026 Đỗ Hải Đăng.
